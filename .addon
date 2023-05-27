@@ -1,0 +1,13 @@
+{
+  "Title": "Team Fortress: Source 2 Addon Experiments",
+  "Type": "extension",
+  "Org": "gmodn",
+  "Ident": "extensionminimal",
+  "Schema": 1,
+  "HasAssets": false,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": ".",
+  "RootNamespace": null,
+}
